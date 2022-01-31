@@ -1,0 +1,26 @@
+h3{
+    color: rgba(31, 156, 14, 0.562);
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 0;
+    padding-top: 34px;
+    line-height: 3px;
+}
+div {
+    background-color: rgb(200, 0, 0);
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    text-align: center;
+    margin: auto;
+  }
+  .but {
+      color: blue;
+      background-color: rgb(36, 206, 36);
+  }
+  img{
+      width: 240px;
+  }
+  form {
+    text-align: center ;
+  }
